@@ -49,7 +49,7 @@ const { $dateFns } = useNuxtApp()
 
 | Name             | Default       | Description                                                                      |
 | ---------------- | ------------- | -------------------------------------------------------------------------------- |
-| `format`         | `'yyy-MM-dd'` | Date format (defaults to ISO 8601)                                               |
+| `format`         | `'yyyy-MM-dd'` | Date format (defaults to ISO 8601)                                               |
 | `defaultLocale`  | `enUS`        | Default locale, used by every function when no locale is specified               |
 | `fallbackLocale` | `enUS`        | Fallback locale, used when specified locale is not supported                     |
 
